@@ -22,8 +22,8 @@ public class Client {
         ){
 
             System.out.println(" Client connection ok");
-
-            ObjectInputStream inputChannel = new ObjectInputStream (s.getInputStream());
+            System.out.println("asdasd");
+            ObjectInputStream inputChannel;
             ObjectOutputStream outputChannel = new ObjectOutputStream(s.getOutputStream());
 
             Scanner scanner = new Scanner(System.in);
@@ -53,7 +53,7 @@ public class Client {
                 case "2":   System.out.println("Ingrese su id: ");
                             String id = scanner.nextLine();
                             outputChannel.writeObject(id);
-
+                            inputChannel = new ObjectInputStream (s.getInputStream());
                             Mensaje men = (Mensaje)inputChannel.readObject();
 
                             System.out.println("Mensaje recibido desde el servidor: "+ men);
