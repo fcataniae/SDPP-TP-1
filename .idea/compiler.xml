@@ -22,10 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="punto-3-y-4" />
         <module name="punto-uno" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="punto-3-y-4" target="1.7" />
       <module name="punto-uno" target="1.7" />
       <module name="SD_1_2019" target="1.5" />
     </bytecodeTargetLevel>

@@ -1,0 +1,10 @@
+
+_squid:UselessImportCheck"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ºó±©›-
+\squid:UselessImportCheck"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ºó±©›-
+Gsquid:S1481"+Remove this unused "client" local variable.(ø±Œ›8ºó±©›-
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓÞÏÛ8ºó±©›-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿÆÈÆüÿÿÿÿ8ºó±©›-
+hsquid:UselessImportCheck":Remove this unused import 'java.net.UnknownHostException'.(Ú·¬˜úÿÿÿÿ8ºó±©›-
+^squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8ºó±©›-
+Usquid:UselessImportCheck",Remove this unused import 'java.net.Socket'.(­‡àú8ºó±©›-
