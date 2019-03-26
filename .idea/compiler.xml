@@ -29,9 +29,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="punto-3-y-4" target="1.7" />
-      <module name="punto-7" target="1.5" />
+      <module name="punto-7" target="1.7" />
       <module name="punto-uno" target="1.7" />
-      <module name="SD_1_2019" target="1.5" />
+      <module name="SD_1_2019" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
