@@ -1,10 +1,10 @@
 
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¢Ó“É8â“¯©›-
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªÂò¥8â“¯©›-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8–ï·©›-
-`squid:S2147"DCombine this catch with the one at line 40, which has the same body.(ï­£Ä8–ï·©›-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8–ï·©›-
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(Òë°Ôûÿÿÿÿ8–ï·©›-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢Ó“É8â“¯©›-
+bsquid:S2147*"DCombine this catch with the one at line 40, which has the same body.(ï­£Ä8–ï·©›-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÂò¥8â“¯©›-
+Fsquid:S1148+"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8–ï·©›-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(Òë°Ôûÿÿÿÿ8–ï·©›-
+Fsquid:S1148)"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8–ï·©›-

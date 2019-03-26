@@ -2,6 +2,7 @@ package com.sd.cliente.impl;
 
 import com.sd.interfaces.InterfazRemota;
 import com.sd.model.CalculoPI;
+import com.sd.model.NumeroAleatorio;
 
 import java.math.BigDecimal;
 import java.rmi.NotBoundException;
@@ -36,7 +37,11 @@ public class Cliente {
 
         CalculoPI cal = new CalculoPI(5000);
 
-        System.out.println("Resultado de la consulta contra el servidor remoto: " + (remote.ejecutar(cal)).toString());
+        System.out.println("Calculo PI con presicion 5000: " + remote.ejecutar(cal).toString());
+
+        NumeroAleatorio n = new NumeroAleatorio(5000);
+
+        System.out.println("Genero un numero aleatorio: " + remote.ejecutar(n).toString());
 
     }
 }
