@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="punto-3-y-4" />
+        <module name="punto-5" />
         <module name="punto-6" />
         <module name="punto-7" />
         <module name="punto-uno" />
@@ -30,6 +31,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="punto-3-y-4" target="1.7" />
+      <module name="punto-5" target="1.7" />
       <module name="punto-6" target="1.7" />
       <module name="punto-7" target="1.7" />
       <module name="punto-uno" target="1.7" />
