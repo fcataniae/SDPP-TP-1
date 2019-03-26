@@ -8,7 +8,7 @@
     <modelVersion>4.0.0</modelVersion>
 
 
-    <artifactId>punto-uno</artifactId>
+    <artifactId>punto-uno-y-dos</artifactId>
     <build>
         <plugins>
             <plugin>

@@ -1,0 +1,5 @@
+com\sd\server\hilos\ThreadServer.class
+com\sd\cliente\Client.class
+com\sd\server\ServerImplementation.class
+com\sd\server\Server.class
+com\sd\cliente\ClienteImplemetation.class

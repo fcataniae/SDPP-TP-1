@@ -1,0 +1,5 @@
+com\sd\cliente\impl\Cliente.class
+com\sd\cliente\ClienteRMI.class
+com\sd\server\impl\ServerImplementation.class
+com\sd\interfaces\InterfazRemota.class
+com\sd\server\ServerRMI.class
