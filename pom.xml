@@ -10,6 +10,7 @@
     <modules>
         <module>punto-uno</module>
         <module>punto-3-y-4</module>
+        <module>punto-7</module>
     </modules>
 
 </project>
